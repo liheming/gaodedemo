@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\project\\gaodedemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\car.png",
+        "source": "D:\\AndroidStudioProjects\\project\\gaodedemo\\app\\src\\main\\res\\drawable-ldpi\\car.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\project\\gaodedemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\bus.png",
+        "source": "D:\\AndroidStudioProjects\\project\\gaodedemo\\app\\src\\main\\res\\drawable-ldpi\\bus.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\project\\gaodedemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\man.png",
+        "source": "D:\\AndroidStudioProjects\\project\\gaodedemo\\app\\src\\main\\res\\drawable-ldpi\\man.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\project\\gaodedemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\start.png",
+        "source": "D:\\AndroidStudioProjects\\project\\gaodedemo\\app\\src\\main\\res\\drawable-ldpi\\start.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\project\\gaodedemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\end.png",
+        "source": "D:\\AndroidStudioProjects\\project\\gaodedemo\\app\\src\\main\\res\\drawable-ldpi\\end.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\project\\gaodedemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_launcher.png",
+        "source": "D:\\AndroidStudioProjects\\project\\gaodedemo\\app\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
+    }
+]

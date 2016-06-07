@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\project\\gaodedemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\end.png",
+        "source": "D:\\AndroidStudioProjects\\project\\gaodedemo\\app\\src\\main\\res\\drawable-xhdpi\\end.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\project\\gaodedemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\man.png",
+        "source": "D:\\AndroidStudioProjects\\project\\gaodedemo\\app\\src\\main\\res\\drawable-xhdpi\\man.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\project\\gaodedemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\start.png",
+        "source": "D:\\AndroidStudioProjects\\project\\gaodedemo\\app\\src\\main\\res\\drawable-xhdpi\\start.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\project\\gaodedemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "D:\\AndroidStudioProjects\\project\\gaodedemo\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\project\\gaodedemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bus.png",
+        "source": "D:\\AndroidStudioProjects\\project\\gaodedemo\\app\\src\\main\\res\\drawable-xhdpi\\bus.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\project\\gaodedemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\car.png",
+        "source": "D:\\AndroidStudioProjects\\project\\gaodedemo\\app\\src\\main\\res\\drawable-xhdpi\\car.png"
+    }
+]

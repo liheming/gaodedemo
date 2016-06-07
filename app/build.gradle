@@ -1,0 +1,28 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 23
+    buildToolsVersion "23.0.3"
+
+    defaultConfig {
+        applicationId "com.amap.map2d.demo"
+        minSdkVersion 14
+        targetSdkVersion 23
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled true
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard.cfg'
+        }
+    }
+}
+
+dependencies {
+    compile 'com.android.support:support-v4:23.1.1'
+    compile files('libs/AMap_Services_V2.5.0.jar')
+    compile files('libs/Android_2DMapApi_V2.5.0.jar')
+    compile files('libs/Android_Location_V1.3.3.jar')
+
+}
+
